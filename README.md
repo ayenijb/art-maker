@@ -4,7 +4,7 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
-* [Githu page](#github page)
+* Github page
 
 ## Instructions
 
@@ -19,3 +19,4 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 ## Github page
 
 This is the link to the githup page where this project is hosted
+https://ayenijb.github.io/art-maker/
